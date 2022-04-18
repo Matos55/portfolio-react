@@ -1,0 +1,1 @@
+git config core.autocrlf true  ==> to disable the warnings "warning: LF will be replaced by CRLF"
