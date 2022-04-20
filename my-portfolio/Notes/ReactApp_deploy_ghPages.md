@@ -29,3 +29,7 @@
 > npm run deploy
 
 > go to github page => settings (top row ribbon) => Code and Automation (left column ribbon) => Pages
+
+# if github page fails to render with a 404 error, make sure you choose a theme in github
+
+> https://stackoverflow.com/questions/55935360/react-app-deployed-to-github-pages-gives-site-not-found
